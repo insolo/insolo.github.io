@@ -1,0 +1,42 @@
+---
+layout: nil
+---
+{
+    "timeline":
+    {
+        "headline":"Feis.co",
+        "type":"default",
+        "text":"这里记录的是Fiona和Phenix的生活历程",
+        "asset": {
+            "media":"/images/big/0003.jpg",
+            "credit":"@东部华侨城",
+            "caption":"婚纱摄影"
+        },
+        "date": [
+        {% for post in site.posts %}{
+                "startDate":"{{ post.startDate }}",
+                "endDate":"{{ post.endDate }}",
+                "headline":"{{ post.headline }}",
+                "text":"{{ post.content }}",
+                "tag":"{{ post.tag }}",
+                "classname":"{{ post.classname }}",
+                "asset": {
+                    "media":"{{ post.media }}",
+                    "thumbnail":"{{ post.thumbnail }}",
+                    "credit":"{{ post.credit }}",
+                    "caption":"{{ post.caption }}"
+                }
+            }{% if forloop.last == false %},{% endif %}{% endfor %}     
+        ],
+        "era": [
+            {
+                "startDate":"2013,10,02",
+                "endDate":"",
+                "headline":"Wedding in Yidu",
+                "text":"",
+                "tag":""
+            }
+
+        ]
+    }
+}
