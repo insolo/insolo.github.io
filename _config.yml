@@ -1,1 +1,3 @@
-markdown:redcloth
+markdown: redcloth
+redcloth:
+  hard_breaks: true
