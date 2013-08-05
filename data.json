@@ -11,16 +11,16 @@
         },
         "date": [
         {
-                "startDate":"",
-                "endDate":"",
+                "startDate":"2013,07,26",
+                "endDate":"第一次产检",
                 "headline":"",
-                "text":"<p>第一次产检，已经可以清晰的看到四肢，脑袋了～</p>",
+                "text":"<p>第一次产检，小BB在妈妈肚子里12周零两天，已经可以清晰的看到四肢，脑袋了～</p>",
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0019.jpg",
+                    "thumbnail":"/images/small/0019-150x150.jpg",
+                    "credit":"@深圳龙岗",
                     "caption":""
                 }
             },{
@@ -50,15 +50,15 @@
                     "caption":""
                 }
             },{
-                "startDate":"",
-                "endDate":"",
-                "headline":"",
+                "startDate":"2013,04,03",
+                "endDate":"2013,04,05",
+                "headline":"阳朔",
                 "text":"<p>清明节，Fiona部门组织的旅游，这是Fiona第二次到桂林，也是Phenix的第三次阳朔之旅…</p>",
                 "tag":"Travel",
-                "classname":"",
+                "classname":"@阳朔",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
+                    "media":"/images/big/0017.jpg",
+                    "thumbnail":"/images/small/0017-150x150.jpg",
                     "credit":"",
                     "caption":""
                 }
