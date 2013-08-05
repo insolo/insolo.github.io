@@ -206,42 +206,42 @@
                     "caption":""
                 }
             },{
-                "startDate":"",
-                "endDate":"",
-                "headline":"",
-                "text":"<p>周末郊游横岗园山，入门级登山</p>",
-                "tag":"",
-                "classname":"",
-                "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },{
-                "startDate":"",
-                "endDate":"",
-                "headline":"",
+                "startDate":"2011,08,12",
+                "endDate":"2011,08,13",
+                "headline":"肇庆二日游",
                 "text":"<p>和同事同游肇庆鼎湖山和其它什么地方的，忘了</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
+                    "media":"/images/big/0007.jpg",
+                    "thumbnail":"/images/small/0007-150x150.jpg",
+                    "credit":"@广东肇庆鼎湖山",
+                    "caption":""
+                }
+            },{
+                "startDate":"2011,12,03",
+                "endDate":"",
+                "headline":"圆山",
+                "text":"<p>周末郊游横岗园山，入门级登山</p>",
+                "tag":"Travel",
+                "classname":"",
+                "asset": {
+                    "media":"/images/big/0008.jpg",
+                    "thumbnail":"/images/small/0008-150x150.jpg",
                     "credit":"",
                     "caption":""
                 }
             },{
-                "startDate":"",
+                "startDate":"2011,05,02",
                 "endDate":"",
-                "headline":"",
+                "headline":"岳阳",
                 "text":"<p>五一小长假，同赴岳阳同学婚礼，早出晚归，非常紧促但别有趣味的火车旅程</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0006.jpg",
+                    "thumbnail":"/images/small/0006-150x150.jpg",
+                    "credit":"@深圳至岳阳火车上",
                     "caption":""
                 }
             },{
