@@ -54,7 +54,7 @@
                 "endDate":"",
                 "headline":"",
                 "text":"<p>清明节，Fiona部门组织的旅游，这是Fiona第二次到桂林，也是Phenix的第三次阳朔之旅…</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -63,146 +63,146 @@
                     "caption":""
                 }
             },{
-                "startDate":"",
+                "startDate":"2013,02,16",
                 "endDate":"",
-                "headline":"",
-                "text":"<p>Fiona出嫁～</p>",
-                "tag":"",
+                "headline":"孝感婚礼",
+                "text":"<p>Fiona出嫁～,双方家长第一次见面</p>",
+                "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0018.jpg",
+                    "thumbnail":"/images/small/0018-150x150.jpg",
+                    "credit":"@湖北孝感",
                     "caption":""
                 }
             },{
-                "startDate":"",
+                "startDate":"2012,11,04",
                 "endDate":"",
-                "headline":"",
+                "headline":"拍婚纱照",
                 "text":"<p>嗯！这是个阳光明媚的日子，光线充足，秋高气爽，适合拍照。龙岗-&gt;罗湖-&gt;东部华侨城-&gt;大梅沙海滩-&gt;罗湖-&gt;龙岗，一天时间，累，但是很兴奋！Fiona这天特别美～</p>",
-                "tag":"",
+                "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0004.jpg",
+                    "thumbnail":"/images/small/0004-150x150.jpg",
+                    "credit":"@深圳东部华侨城",
                     "caption":""
                 }
             },{
-                "startDate":"",
+                "startDate":"2012,10,23",
                 "endDate":"",
-                "headline":"",
+                "headline":"登记结婚",
                 "text":"<p>2012年农历九月初九，于龙岗民政局登记结婚</p>",
-                "tag":"",
+                "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0002.jpg",
+                    "thumbnail":"/images/small/0002-150x150.jpg",
+                    "credit":"@深圳龙岗",
                     "caption":""
                 }
             },{
-                "startDate":"",
-                "endDate":"",
+                "startDate":"2012,10,20",
+                "endDate":"香港买婚戒",
                 "headline":"",
                 "text":"<p>准备登记结婚，买婚戒一对，没有钻石…</p>",
-                "tag":"",
+                "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0016.jpg",
+                    "thumbnail":"/images/small/0016-150x150.jpg",
+                    "credit":"@香港",
                     "caption":""
                 }
             },{
-                "startDate":"",
+                "startDate":"2012,10,13",
                 "endDate":"",
-                "headline":"",
+                "headline":"霞涌",
                 "text":"<p>周末至惠州霞涌海滩～</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0015.jpg",
+                    "thumbnail":"/images/small/0015-150x150.jpg",
+                    "credit":"@惠州大亚湾霞涌",
                     "caption":""
                 }
             },{
-                "startDate":"",
-                "endDate":"",
-                "headline":"",
+                "startDate":"2012,09,29",
+                "endDate":"2012,10,06",
+                "headline":"十一回家",
                 "text":"<p>十一拼车回家，见识了车站的人山人海后滞留武汉表弟家两天，然后各回各家，各见各妈～其间Phenix去参加了同学婚礼</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0014.jpg",
+                    "thumbnail":"/images/small/0014-150x150.jpg",
+                    "credit":"@武汉",
                     "caption":""
                 }
             },{
-                "startDate":"",
+                "startDate":"2012,08,04",
                 "endDate":"",
-                "headline":"",
+                "headline":"又一次香港之旅",
                 "text":"<p>又一次同游香港，天坛大佛，迪士尼，门票太贵，过门不入～</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0013.jpg",
+                    "thumbnail":"/images/small/0013-150x150.jpg",
+                    "credit":"@香港",
                     "caption":""
                 }
             },{
-                "startDate":"",
+                "startDate":"2012,06,24",
                 "endDate":"",
-                "headline":"",
+                "headline":"珠海",
                 "text":"<p>从澳门返程，倾盆大雨，于是在珠海过夜，海边的情侣路，开车的感觉很美</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0012.jpg",
+                    "thumbnail":"/images/small/0012-150x150.jpg",
+                    "credit":"@珠海",
                     "caption":""
                 }
             },{
-                "startDate":"",
+                "startDate":"2012,06,23",
                 "endDate":"",
-                "headline":"",
+                "headline":"澳门",
                 "text":"<p>端午节，自驾澳门游，免费点心吃到饱，印象相当不错</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0011.jpg",
+                    "thumbnail":"/images/small/0011-150x150.jpg",
+                    "credit":"@澳门",
                     "caption":""
                 }
             },{
-                "startDate":"",
-                "endDate":"",
-                "headline":"",
+                "startDate":"2012,01,23",
+                "endDate":"2012,01,28",
+                "headline":"孝感老家",
                 "text":"<p>春节后，第一次见丈母娘，还有Fiona的N多兄弟姐妹们～嗯，中间还去了随州Phenix姑姑家</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0010.jpg",
+                    "thumbnail":"/images/small/0010-150x150.jpg",
+                    "credit":"@湖北孝昌",
                     "caption":""
                 }
             },{
-                "startDate":"",
-                "endDate":"",
-                "headline":"",
+                "startDate":"2012,01,15",
+                "endDate":"2012,01,23",
+                "headline":"宜都老家",
                 "text":"<p>春节回家，丑媳妇第一次见公婆(:，中间去武汉赶了表弟婚礼</p>",
-                "tag":"",
+                "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"/images/big/0009.jpg",
+                    "thumbnail":"/images/small/0009-150x150.jpg",
+                    "credit":"@湖北宜都",
                     "caption":""
                 }
             },{
