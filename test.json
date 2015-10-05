@@ -4,6 +4,7 @@
         "headline":"Feis.co",
         "type":"default",
         "text":"这里记录的是Fiona和Phenix的生活历程",
+        "classname":"hello",
         "asset": {
             "media":"http://s.feis.co/images/big/0003.jpg",
             "credit":"@东部华侨城",
