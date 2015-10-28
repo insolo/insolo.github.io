@@ -252,8 +252,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0005.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0005-150x150.jpg",
+                    "media":"http://feis.co/images/big/0005.jpg",
+                    "thumbnail":"http://feis.co/images/small/0005-150x150.jpg",
                     "credit":"@香港星光大道",
                     "caption":""
                 }
@@ -265,8 +265,8 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0001.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0001-150x150.jpg",
+                    "media":"http://feis.co/images/big/0001.jpg",
+                    "thumbnail":"http://feis.co/images/small/0001-150x150.jpg",
                     "credit":"@深圳东西涌",
                     "caption":"这张摄于2010年12月7日的照片算是之前为数不多的合影之一了"
                 }
