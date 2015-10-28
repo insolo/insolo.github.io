@@ -5,7 +5,7 @@
         "type":"default",
         "text":"这里记录的是Fiona和Phenix的生活历程",
         "asset": {
-            "media":"http://s.feis.co/images/big/0003.jpg",
+            "media":"http://feis.co/images/big/0003.jpg",
             "credit":"@东部华侨城",
             "caption":"婚纱摄影"
         },
@@ -18,10 +18,10 @@
                 "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0019.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0019-150x150.jpg",
+                    "media":"http://feis.co/images/big/0019.jpg",
+                    "thumbnail":"http://feis.co/images/small/0019-150x150.jpg",
                     "credit":"@深圳龙岗",
-                    "caption":""
+                    "caption":"彩超照片"
                 }
             },{
                 "startDate":"2013,07,10",
@@ -55,12 +55,12 @@
                 "headline":"阳朔",
                 "text":"<p>清明节，Fiona部门组织的旅游，这是Fiona第二次到桂林，也是Phenix的第三次阳朔之旅…</p>",
                 "tag":"Travel",
-                "classname":"@阳朔",
+                "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0017.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0017-150x150.jpg",
-                    "credit":"",
-                    "caption":""
+                    "media":"http://feis.co/images/big/0017.jpg",
+                    "thumbnail":"http://feis.co/images/small/0017-150x150.jpg",
+                    "credit":"@阳朔",
+                    "caption":"桂林风光"
                 }
             },{
                 "startDate":"2013,02,16",
@@ -70,8 +70,8 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0018.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0018-150x150.jpg",
+                    "media":"http://feis.co/images/big/0018.jpg",
+                    "thumbnail":"http://feis.co/images/small/0018-150x150.jpg",
                     "credit":"@湖北孝感",
                     "caption":""
                 }
@@ -83,10 +83,10 @@
                 "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0004.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0004-150x150.jpg",
+                    "media":"http://feis.co/images/big/0004.jpg",
+                    "thumbnail":"http://feis.co/images/small/0004-150x150.jpg",
                     "credit":"@深圳东部华侨城",
-                    "caption":""
+                    "caption":"婚纱摄影"
                 }
             },{
                 "startDate":"2012,10,23",
@@ -96,10 +96,10 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0002.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0002-150x150.jpg",
+                    "media":"http://feis.co/images/big/0002.jpg",
+                    "thumbnail":"http://feis.co/images/small/0002-150x150.jpg",
                     "credit":"@深圳龙岗",
-                    "caption":""
+                    "caption":"结婚登记照"
                 }
             },{
                 "startDate":"2012,10,20",
@@ -109,8 +109,8 @@
                 "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0016.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0016-150x150.jpg",
+                    "media":"http://feis.co/images/big/0016.jpg",
+                    "thumbnail":"http://feis.co/images/small/0016-150x150.jpg",
                     "credit":"@香港",
                     "caption":""
                 }
@@ -122,8 +122,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0015.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0015-150x150.jpg",
+                    "media":"http://feis.co/images/big/0015.jpg",
+                    "thumbnail":"http://feis.co/images/small/0015-150x150.jpg",
                     "credit":"@惠州大亚湾霞涌",
                     "caption":""
                 }
@@ -135,8 +135,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0014.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0014-150x150.jpg",
+                    "media":"http://feis.co/images/big/0014.jpg",
+                    "thumbnail":"http://feis.co/images/small/0014-150x150.jpg",
                     "credit":"@武汉",
                     "caption":""
                 }
@@ -148,8 +148,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0013.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0013-150x150.jpg",
+                    "media":"http://feis.co/images/big/0013.jpg",
+                    "thumbnail":"http://feis.co/images/small/0013-150x150.jpg",
                     "credit":"@香港",
                     "caption":""
                 }
@@ -161,8 +161,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0012.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0012-150x150.jpg",
+                    "media":"http://feis.co/images/big/0012.jpg",
+                    "thumbnail":"http://feis.co/images/small/0012-150x150.jpg",
                     "credit":"@珠海",
                     "caption":""
                 }
@@ -174,8 +174,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0011.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0011-150x150.jpg",
+                    "media":"http://feis.co/images/big/0011.jpg",
+                    "thumbnail":"http://feis.co/images/small/0011-150x150.jpg",
                     "credit":"@澳门",
                     "caption":""
                 }
@@ -187,8 +187,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0010.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0010-150x150.jpg",
+                    "media":"http://feis.co/images/big/0010.jpg",
+                    "thumbnail":"http://feis.co/images/small/0010-150x150.jpg",
                     "credit":"@湖北孝昌",
                     "caption":""
                 }
@@ -200,8 +200,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0009.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0009-150x150.jpg",
+                    "media":"http://feis.co/images/big/0009.jpg",
+                    "thumbnail":"http://feis.co/images/small/0009-150x150.jpg",
                     "credit":"@湖北宜都",
                     "caption":""
                 }
@@ -213,8 +213,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0007.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0007-150x150.jpg",
+                    "media":"http://feis.co/images/big/0007.jpg",
+                    "thumbnail":"http://feis.co/images/small/0007-150x150.jpg",
                     "credit":"@广东肇庆鼎湖山",
                     "caption":""
                 }
@@ -226,9 +226,9 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0008.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0008-150x150.jpg",
-                    "credit":"",
+                    "media":"http://feis.co/images/big/0008.jpg",
+                    "thumbnail":"http://feis.co/images/small/0008-150x150.jpg",
+                    "credit":"@深圳圆山",
                     "caption":""
                 }
             },{
@@ -239,8 +239,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://s.feis.co/images/big/0006.jpg",
-                    "thumbnail":"http://s.feis.co/images/small/0006-150x150.jpg",
+                    "media":"http://feis.co/images/big/0006.jpg",
+                    "thumbnail":"http://feis.co/images/small/0006-150x150.jpg",
                     "credit":"@深圳至岳阳火车上",
                     "caption":""
                 }
