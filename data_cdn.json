@@ -5,12 +5,12 @@
         "type":"default",
         "text":"这里记录的是Fiona和Phenix的生活历程",
         "asset": {
-            "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0003.jpg",
+            "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0003.jpg",
             "credit":"@东部华侨城",
             "caption":"婚纱摄影"
         },
         "date": [
-               {
+            {
                 "startDate":"2013,10,02",
                 "endDate":"",
                 "headline":"宜都老家婚礼",
@@ -18,8 +18,8 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0020.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0020-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0020.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0020-150x150.jpg",
                     "credit":"@宜都",
                     "caption":"婚礼现场照片"
                 }
@@ -31,8 +31,8 @@
                 "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0019.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0019-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0019.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0019-150x150.jpg",
                     "credit":"@深圳龙岗",
                     "caption":"彩超照片"
                 }
@@ -70,8 +70,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0017.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0017-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0017.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0017-150x150.jpg",
                     "credit":"@阳朔",
                     "caption":"桂林风光"
                 }
@@ -83,8 +83,8 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0018.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0018-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0018.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0018-150x150.jpg",
                     "credit":"@湖北孝感",
                     "caption":""
                 }
@@ -96,8 +96,8 @@
                 "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0004.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0004-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0004.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0004-150x150.jpg",
                     "credit":"@深圳东部华侨城",
                     "caption":"婚纱摄影"
                 }
@@ -109,21 +109,21 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0002.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0002-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0002.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0002-150x150.jpg",
                     "credit":"@深圳龙岗",
                     "caption":"结婚登记照"
                 }
             },{
                 "startDate":"2012,10,20",
-                "endDate":"香港买婚戒",
-                "headline":"",
+                "endDate":"",
+                "headline":"香港买婚戒",
                 "text":"<p>准备登记结婚，买婚戒一对，没有钻石…</p>",
                 "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0016.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0016-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0016.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0016-150x150.jpg",
                     "credit":"@香港",
                     "caption":""
                 }
@@ -135,8 +135,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0015.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0015-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0015.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0015-150x150.jpg",
                     "credit":"@惠州大亚湾霞涌",
                     "caption":""
                 }
@@ -148,8 +148,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0014.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0014-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0014.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0014-150x150.jpg",
                     "credit":"@武汉",
                     "caption":""
                 }
@@ -161,8 +161,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0013.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0013-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0013.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0013-150x150.jpg",
                     "credit":"@香港",
                     "caption":""
                 }
@@ -174,8 +174,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0012.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0012-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0012.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0012-150x150.jpg",
                     "credit":"@珠海",
                     "caption":""
                 }
@@ -187,8 +187,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0011.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0011-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0011.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0011-150x150.jpg",
                     "credit":"@澳门",
                     "caption":""
                 }
@@ -200,8 +200,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0010.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0010-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0010.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0010-150x150.jpg",
                     "credit":"@湖北孝昌",
                     "caption":""
                 }
@@ -213,8 +213,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0009.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0009-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0009.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0009-150x150.jpg",
                     "credit":"@湖北宜都",
                     "caption":""
                 }
@@ -226,8 +226,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0007.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0007-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0007.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0007-150x150.jpg",
                     "credit":"@广东肇庆鼎湖山",
                     "caption":""
                 }
@@ -239,8 +239,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0008.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0008-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0008.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0008-150x150.jpg",
                     "credit":"@深圳圆山",
                     "caption":""
                 }
@@ -252,8 +252,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0006.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0006-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0006.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0006-150x150.jpg",
                     "credit":"@深圳至岳阳火车上",
                     "caption":""
                 }
@@ -265,21 +265,21 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0005.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0005-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0005.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0005-150x150.jpg",
                     "credit":"@香港星光大道",
                     "caption":""
                 }
             },{
-                "startDate":"2011,3,15",
+                "startDate":"2011,03,15",
                 "endDate":"",
                 "headline":"我们恋爱了",
                 "text":"<p>2011年3月15日晚上，值得纪念的时刻，我们恋爱了</p>",
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"http://7xn8wx.com1.z0.glb.clouddn.com/images/big/0001.jpg",
-                    "thumbnail":"http://7xn8wx.com1.z0.glb.clouddn.com/images/small/0001-150x150.jpg",
+                    "media":"//7xn8wx.com1.z0.glb.clouddn.com/images/big/0001.jpg",
+                    "thumbnail":"//7xn8wx.com1.z0.glb.clouddn.com/images/small/0001-150x150.jpg",
                     "credit":"@深圳东西涌",
                     "caption":"这张摄于2010年12月7日的照片算是之前为数不多的合影之一了"
                 }
