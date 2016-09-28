@@ -5,7 +5,7 @@
         "type":"default",
         "text":"这里记录的是Fiona和Phenix的生活历程",
         "asset": {
-            "media":"//static-a.insolo.net/timeline/big/0003.jpg",
+            "media":"//i.xxbase.com/timeline/big/0003.jpg",
             "credit":"@东部华侨城",
             "caption":"婚纱摄影"
         },
@@ -32,8 +32,8 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0020.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0020-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0020.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0020-150x150.jpg",
                     "credit":"@宜都",
                     "caption":"婚礼现场照片"
                 }
@@ -45,8 +45,8 @@
                 "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0019.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0019-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0019.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0019-150x150.jpg",
                     "credit":"@深圳龙岗",
                     "caption":"彩超照片"
                 }
@@ -84,8 +84,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0017.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0017-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0017.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0017-150x150.jpg",
                     "credit":"@阳朔",
                     "caption":"桂林风光"
                 }
@@ -97,8 +97,8 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0018.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0018-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0018.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0018-150x150.jpg",
                     "credit":"@湖北孝感",
                     "caption":""
                 }
@@ -110,8 +110,8 @@
                 "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0004.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0004-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0004.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0004-150x150.jpg",
                     "credit":"@深圳东部华侨城",
                     "caption":"婚纱摄影"
                 }
@@ -123,8 +123,8 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0002.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0002-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0002.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0002-150x150.jpg",
                     "credit":"@深圳龙岗",
                     "caption":"结婚登记照"
                 }
@@ -136,8 +136,8 @@
                 "tag":"Else",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0016.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0016-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0016.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0016-150x150.jpg",
                     "credit":"@香港",
                     "caption":""
                 }
@@ -149,8 +149,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0015.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0015-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0015.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0015-150x150.jpg",
                     "credit":"@惠州大亚湾霞涌",
                     "caption":""
                 }
@@ -162,8 +162,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0014.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0014-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0014.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0014-150x150.jpg",
                     "credit":"@武汉",
                     "caption":""
                 }
@@ -175,8 +175,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0013.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0013-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0013.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0013-150x150.jpg",
                     "credit":"@香港",
                     "caption":""
                 }
@@ -188,8 +188,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0012.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0012-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0012.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0012-150x150.jpg",
                     "credit":"@珠海",
                     "caption":""
                 }
@@ -201,8 +201,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0011.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0011-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0011.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0011-150x150.jpg",
                     "credit":"@澳门",
                     "caption":""
                 }
@@ -214,8 +214,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0010.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0010-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0010.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0010-150x150.jpg",
                     "credit":"@湖北孝昌",
                     "caption":""
                 }
@@ -227,8 +227,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0009.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0009-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0009.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0009-150x150.jpg",
                     "credit":"@湖北宜都",
                     "caption":""
                 }
@@ -240,8 +240,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0007.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0007-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0007.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0007-150x150.jpg",
                     "credit":"@广东肇庆鼎湖山",
                     "caption":""
                 }
@@ -253,8 +253,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0008.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0008-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0008.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0008-150x150.jpg",
                     "credit":"@深圳圆山",
                     "caption":""
                 }
@@ -266,8 +266,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0006.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0006-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0006.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0006-150x150.jpg",
                     "credit":"@深圳至岳阳火车上",
                     "caption":""
                 }
@@ -279,8 +279,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0005.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0005-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0005.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0005-150x150.jpg",
                     "credit":"@香港星光大道",
                     "caption":""
                 }
@@ -292,8 +292,8 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"//static-a.insolo.net/timeline/big/0001.jpg",
-                    "thumbnail":"//static-a.insolo.net/timeline/small/0001-150x150.jpg",
+                    "media":"//i.xxbase.com/timeline/big/0001.jpg",
+                    "thumbnail":"//i.xxbase.com/timeline/small/0001-150x150.jpg",
                     "credit":"@深圳东西涌",
                     "caption":"这张摄于2010年12月7日的照片算是之前为数不多的合影之一了"
                 }
