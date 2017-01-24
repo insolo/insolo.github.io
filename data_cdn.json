@@ -266,8 +266,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//i.xxbase.com/timeline/big/0006.jpg",
-                    "thumbnail":"//i.xxbase.com/timeline/small/0006-150x150.jpg",
+                    "media":"https://i.xxbase.com/h/images/2017/01/24/xHx.md.jpg",
+                    "thumbnail":"https://i.xxbase.com/h/images/2017/01/24/xHx.th.jpg",
                     "credit":"@深圳至岳阳火车上",
                     "caption":""
                 }
@@ -279,8 +279,8 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//i.xxbase.com/h/images/2017/01/24/nNY.md.jpg",
-                    "thumbnail":"//i.xxbase.com/h/images/2017/01/24/nNY.th.jpg",
+                    "media":"https://i.xxbase.com/h/images/2017/01/24/nNY.md.jpg",
+                    "thumbnail":"https://i.xxbase.com/h/images/2017/01/24/nNY.th.jpg",
                     "credit":"@香港半岛酒店",
                     "caption":""
                 }
@@ -292,8 +292,8 @@
                 "tag":"Milestone",
                 "classname":"",
                 "asset": {
-                    "media":"//i.xxbase.com/h/images/2017/01/24/VZg.md.jpg",
-                    "thumbnail":"//i.xxbase.com/h/images/2017/01/24/VZg.th.jpg",
+                    "media":"https://i.xxbase.com/h/images/2017/01/24/VZg.md.jpg",
+                    "thumbnail":"https://i.xxbase.com/h/images/2017/01/24/VZg.th.jpg",
                     "credit":"@深圳东西涌",
                     "caption":"这张摄于2010年12月7日的照片算是之前为数不多的合影之一了"
                 }
