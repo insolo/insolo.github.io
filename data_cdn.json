@@ -240,14 +240,14 @@
                 "tag":"Travel",
                 "classname":"",
                 "asset": {
-                    "media":"//i.xxbase.com/timeline/big/0007.jpg",
-                    "thumbnail":"//i.xxbase.com/timeline/small/0007-150x150.jpg",
+                    "media":"https://i.xxbase.com/h/images/2017/01/24/2kl.md.jpg",
+                    "thumbnail":"https://i.xxbase.com/h/images/2017/01/24/2kl.th.jpg",
                     "credit":"@广东肇庆鼎湖山",
                     "caption":""
                 }
             },{
                 "startDate":"2011,12,03",
-                "endDate":"",
+                "endDate":"2011,12,03",
                 "headline":"圆山",
                 "text":"<p>周末郊游横岗园山，入门级登山</p>",
                 "tag":"Travel",
